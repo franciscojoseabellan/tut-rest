@@ -35,7 +35,7 @@
 		<dependency>
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
-			<version>3.0.0.tut_rest</version>
+			<version>3.0.0.tut.rest</version>
 			<optional>true</optional>
 		</dependency>
 	</dependencies>
